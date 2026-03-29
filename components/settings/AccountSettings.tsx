@@ -168,7 +168,6 @@ export function AccountSettings({ onClose }: { onClose: () => void }) {
                         <div className="flex-1 flex flex-col items-center justify-end gap-2 mt-4">
                             <div className="bg-black/40 border border-slate-700 p-3 rounded-lg text-center w-full">
                                 <h4 className="font-pixel text-[10px] text-yellow-500 mb-2">ABOUT THE CREATOR</h4>
-                                <p className="font-pixel text-[8px] text-slate-300 mb-2">KUNAL SINGH</p>
                                 <div className="border-t border-slate-700 pt-2 px-1">
                                     <p className="font-pixel text-[6px] text-slate-400 leading-relaxed uppercase">
                                         A gamified productivity dashboard transforming daily tasks into an epic retro RPG adventure.
