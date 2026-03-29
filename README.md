@@ -14,8 +14,6 @@
 
 **PixelQuest** takes the monotonous feel out of a standard to-do list by marrying task management with core Role-Playing Game mechanics. Powered by Next.js 14 and Tailwind CSS, this interactive Web App uses a living React ecosystem to spawn characters, pets, floating buildings, and immersive real-time dynamic skies.
 
-Built entirely by **Kunal Singh**.
-
 ### 🎮 Core Features
 - **Gamified Dashboard:** Add "Quests" (Tasks) and earn Gold and XP upon completion.
 - **Interactive Base Building:** Buy structures like the Scholar's Tower, Farm, and Forge with 3D-placement mechanics across the map.
@@ -86,4 +84,4 @@ PixelQuest is structurally formatted to be instantly deployed on **Vercel**:
 ## 🔐 Privacy & .gitignore
 This project's `.gitignore` contains safety locks for standard Next.js distributions, including blocking `/node_modules` alongside your unique `*.local` environment files.
 
-> Developed with ❤️ by Kunal Singh | v1.0.0
+> Developed with ❤️ | v1.0.0

@@ -2,7 +2,6 @@
   "name": "pixel-quest",
   "version": "1.0.0",
   "description": "A gamified productivity dashboard transforming daily tasks into an epic retro RPG adventure.",
-  "author": "Kunal Singh",
   "private": true,
   "scripts": {
     "dev": "next dev",
