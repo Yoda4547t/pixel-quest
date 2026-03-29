@@ -1,0 +1,22 @@
+import { MapData, TileType as T } from "./types";
+
+// G=Grass, T=Tree, P=Path, B=Bush(Tree), D=Dirt, U=Guild Tent
+export const forestMap: MapData = {
+    width: 11,
+    height: 11,
+    spawnX: 5,
+    spawnY: 9,
+    tiles: [
+        [T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE],
+        [T.TREE, T.GRASS, T.GRASS, T.TREE, T.GRASS, T.GUILD_TENT, T.GRASS, T.TREE, T.GRASS, T.TREE, T.TREE],
+        [T.TREE, T.GRASS, T.GRASS, T.GRASS, T.GRASS, T.DIRT, T.GRASS, T.GRASS, T.GRASS, T.GRASS, T.TREE],
+        [T.TREE, T.TREE, T.GRASS, T.TREE, T.GRASS, T.DIRT, T.TREE, T.GRASS, T.TREE, T.GRASS, T.TREE],
+        [T.TREE, T.GRASS, T.GRASS, T.GRASS, T.GRASS, T.DIRT, T.DIRT, T.DIRT, T.GRASS, T.GRASS, T.TREE],
+        [T.TREE, T.GRASS, T.TREE, T.DIRT, T.DIRT, T.DIRT, T.TREE, T.DIRT, T.GRASS, T.TREE, T.TREE],
+        [T.TREE, T.GRASS, T.GRASS, T.DIRT, T.TREE, T.TREE, T.GRASS, T.DIRT, T.GRASS, T.GRASS, T.TREE],
+        [T.TREE, T.TREE, T.GRASS, T.DIRT, T.DIRT, T.DIRT, T.DIRT, T.DIRT, T.GRASS, T.TREE, T.TREE],
+        [T.TREE, T.GRASS, T.GRASS, T.TREE, T.GRASS, T.DIRT, T.GRASS, T.GRASS, T.GRASS, T.GRASS, T.TREE],
+        [T.TREE, T.TREE, T.GRASS, T.GRASS, T.GRASS, T.DIRT, T.GRASS, T.TREE, T.TREE, T.GRASS, T.TREE],
+        [T.TREE, T.TREE, T.TREE, T.TREE, T.TREE, T.PATH, T.TREE, T.TREE, T.TREE, T.TREE, T.TREE],
+    ]
+};
