@@ -68,6 +68,12 @@ You MUST have a Firebase project configured with:
 5. Navigate to `http://localhost:3000` to dive into the adventure!
 
 ---
+## Screenshots
+<img width="345" height="325" alt="image" src="https://github.com/user-attachments/assets/c04e965c-5005-4ec2-853b-434f7cd7a726" />  <img width="365" height="364" alt="image" src="https://github.com/user-attachments/assets/d93a7455-db02-45df-8f84-d794a6d6f2b1" /> 
+
+<img width="1677" height="857" alt="image" src="https://github.com/user-attachments/assets/7d6b2d81-5528-43ef-9cf8-2f553814933c" />
+
+---
 
 ## 📜 Deployment (Production)
 
